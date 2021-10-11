@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "912806370318",
+    "project_id": "mychat-5ba3d",
+    "storage_bucket": "mychat-5ba3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912806370318:android:118e94b4a442f50cb4b05f",
+        "android_client_info": {
+          "package_name": "com.fantahun.mygramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912806370318-sd4sa79tbg6j5u4cmlrs5811i844m9jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantahun.mygramm",
+            "certificate_hash": "aa691c3f8ac748e2aa00018c953205ca5410ff39"
+          }
+        },
+        {
+          "client_id": "912806370318-v63ulikm8cm533rs8lajkdge1shs2c7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNdDZPdHKk3Id4vKtmqsDZ-3e79znaSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912806370318-v63ulikm8cm533rs8lajkdge1shs2c7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

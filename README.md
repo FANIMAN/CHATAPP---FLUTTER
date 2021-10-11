@@ -1,4 +1,4 @@
-# mygramm
+# ChatApp Flutter - Firebase
 
 A new Flutter project.
 
