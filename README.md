@@ -1,4 +1,6 @@
-# ChatApp Flutter - Firebase
+
+# ChatApp - Flutter/Firebase
+>>>>>>> 94a1f64e76ace0e15141f68f3085e962f052f79d
 
 A new Flutter project.
 
