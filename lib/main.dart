@@ -46,7 +46,5 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
-//Which One Of The FOllowoign Is True About Faniman And I AM From Addis ABaab In s
-//Which NE IS AFanima ANs I am From Adi aNAA OWhci Ine 
+ 
 
